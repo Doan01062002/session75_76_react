@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Throwback hip bag",
+      "price": 100,
+      "quantity": 20,
+      "description": "A stylish retro shoulder bag perfect for everyday use",
+      "image": "https://vionstore.com/wp-content/uploads/2020/01/tui-louis-vuitton-MTX04-2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Retro shoulder bag",
+      "price": 120,
+      "quantity": 0,
+      "description": "A stylish retro shoulder bag perfect for everyday use.",
+      "image": "https://i.pinimg.com/736x/d1/41/bf/d141bf32f1d421455b46173d34c5634b.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Classic crossbody bag",
+      "price": 110,
+      "quantity": 22,
+      "description": "A classic crossbody bag with a modern twist.",
+      "image": "https://chiinstore.com/media/product/4638_634x634___2022_08_10t115157_266.jpg"
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "name": "Classic crossbody bag",
+      "price": 110,
+      "quantity": 2,
+      "description": "A classic crossbody bag with a modern twist.",
+      "image": "https://chiinstore.com/media/product/4638_634x634___2022_08_10t115157_266.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Retro shoulder bag",
+      "price": 120,
+      "quantity": 3,
+      "description": "A stylish retro shoulder bag perfect for everyday use.",
+      "image": "https://i.pinimg.com/736x/d1/41/bf/d141bf32f1d421455b46173d34c5634b.jpg"
+    }
+  ]
+}
